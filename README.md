@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Shamira khan</h1>
 <h3 align="center">A passionate Data Science Candidate.</h3>
 
@@ -6,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shami0311&label=Profile%20views&color=0e75b6&style=flat" alt="shami0311" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/shami0311](https://github.com/shami0311)
+- 👨‍💻 All of my projects are available at [https://github.com/shami0311?tab=repositories](https://github.com/shami0311?tab=repositories)
 
 - 📫 How to reach me **khanshamira93@gmail.com**
 
@@ -25,4 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shami0311&show_icons=true&locale=en&layout=compact" alt="shami0311" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shami0311&show_icons=true&locale=en" alt="shami0311" /></p>
+
 
