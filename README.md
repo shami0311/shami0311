@@ -10,8 +10,7 @@
 
 - 📫 How to reach me **khanshamira93@gmail.com**
 
-- 📄 Know about my experiences(Resume Link)) [https://app.luminpdf.com/viewer/64f8bda5116004ddc503addc](https://app.luminpdf.com/viewer/64f8bda5116004ddc503addc)
-
+- 📄 Know about my experiences(Resume Link)) [(https://app.luminpdf.com/viewer/64f8bda5116004ddc503addc)](https://drive.google.com/file/d/154-D8fTvhFdf1GVA0uc91RgpM40zhjMk/view?usp=drive_link)
 - ⚡ Fun fact **Friendly Nature 🤗**
 
 <h3 align="left">Connect with me:</h3>
